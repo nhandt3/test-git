@@ -1,5 +1,5 @@
 abcxyz
-
+ unsigned char avariable[40];
 
 asdaadsdsa
 asdsad
